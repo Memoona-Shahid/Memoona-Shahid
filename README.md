@@ -27,5 +27,7 @@ Git, GitHub, Visual Studio, VS Code, MySQL, SQL Server
 
 
 ## 📫 Connect With Me
-[LinkedIn](www.linkedin.com/in/memoona-shahid-32837b32a) | [Email](smemoona123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/memoona-shahid-32837b32a)
+| [![Gmail](https://img.shields.io/badge/Email-smemoona123%40gmail.com-red?logo=gmail&logoColor=white)](mailto:smemoona123@gmail.com)
+
 *"Every great developer you know started as a beginner who never gave up."*
