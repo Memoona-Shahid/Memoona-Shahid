@@ -6,7 +6,7 @@
 
 ## 🔭 Current Projects
 - 🚗 **Car Parking System** (ASP.NET Core) – Assigns slots, generates parking cards, tracks duration
-- 
+
 ## 🛠 Skills & Tools
 **Languages:**  
 C#, Java, Python, C, SQL  
